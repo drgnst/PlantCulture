@@ -1,0 +1,11 @@
+{
+  "routes": [
+    "/home",
+    "/home/about",
+    "/home/contact",
+    "/home/dashboard",
+    "/home/menu",
+    "/home/reservation",
+    "/home/vip-room"
+  ]
+}
